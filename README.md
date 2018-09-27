@@ -111,7 +111,9 @@ Yapay | https://www.yapay.com.br/ | Vue, Vuex, Axios, Ruby, Lodash | Marília - 
 Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex | Brasília-DF
 Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Uberlândia/MG
 128Bits | http://128bits.cc/  | Django, PostgreSQL, VueJs,Vuex  | Teresina-PI
-7Virtual | http://7virtual.com.br/  | Entity(C#), SQLServer, VueJs, Quasar  | Serrinha-BA
+2Tech | http://www.2tech.com.br/  | SQL Sever, C#, jQuery, Vue.js , ASP Clássico | Niterói-RJ
+7Virtual | http://7virtual.com.br/  | Entity(C#), 
+Server, VueJs, Quasar  | Serrinha-BA
 
 ## Projetos que usam Vue.js no Brasil
 
